@@ -1,0 +1,20 @@
+.nav-logo{
+    height: 50px;
+    margin: 15px;
+    color: black;
+}
+.form{
+    padding: 20px;
+    border: 1px solid black;
+}
+.logo{
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+}
+.logo img{
+    height: 25px;
+    margin-right: 280px;
+
+}

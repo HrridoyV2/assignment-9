@@ -1,0 +1,21 @@
+
+.logo{
+    height: 25%;
+    width: 25%;
+    margin: 5px;
+
+}
+.nav{
+    color: white;
+    margin: 2%;
+}
+.bg{
+    background:linear-gradient(rgb(0, 0, 0, .6), rgb(0, 0, 0, .6)), url('../../Icon/Rectangle\ 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.img{
+    height: 500px;
+    width: 95%;
+}

@@ -1,0 +1,12 @@
+.nav-logo{
+    margin: 15px;
+    color: black;
+}
+.form{
+    padding: 20px;
+    border: 1px solid black;
+}
+nav{
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+}
